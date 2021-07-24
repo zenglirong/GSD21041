@@ -1,5 +1,6 @@
 rootProject.name = "GSD2104"
 
-include ':Day01_03_ViewPageIndicator'
+include ':Day02_02_MainActivityLayout'
 include ':listSamples'
 include ':viewpagerIndicator_library'
+include ':pullToRefresh_Library'

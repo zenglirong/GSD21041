@@ -10,8 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Day01_03_ViewPageIndicator" />
+            <option value="$PROJECT_DIR$/Day02_02_MainActivityLayout" />
             <option value="$PROJECT_DIR$/listSamples" />
+            <option value="$PROJECT_DIR$/pullToRefresh_Library" />
             <option value="$PROJECT_DIR$/viewpagerIndicator_library" />
           </set>
         </option>
